@@ -1,0 +1,9 @@
+# Default ignored files
+.idea
+*.iml
+
+# Pour un projet JAVA
+*.class
+
+# Pour un projet MAVEN
+target
